@@ -17,19 +17,17 @@ px4_command这个无人机ROS包的使用说明文档
 软件构架
 ===================
 
-小分类1
--------------
-
-.. toctree::
-   :maxdepth: 2
-
-   hello
-
-
 .. toctree::
    :maxdepth: 1
 
-   hello
+   doc/readme
+.. Indices and tables
+.. ==================
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
+
 
 仿真环境搭建及其操作实例
 ===================
@@ -37,7 +35,13 @@ px4_command这个无人机ROS包的使用说明文档
 .. toctree::
    :maxdepth: 1
 
-   hello
+   doc/simulation-environmen
+.. Indices and tables
+.. ==================
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
 真机操作
 ===================
